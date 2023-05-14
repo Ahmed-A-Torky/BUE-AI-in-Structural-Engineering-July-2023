@@ -1,4 +1,4 @@
-![Welcome to Global Campus banner](https://github.blog/wp-content/uploads/2021/08/GitHub-Global-Campus_social-card.png?resize=1200%2C630)
+![Welcome to Global Campus banner]([https://pasteboard.co/hSPKw9Rg3DFr.png])
 
 # Welcome to the BUE Structural Analysis and AI repository! 
 
