@@ -1,4 +1,4 @@
-![Welcome to Global Campus banner]([https://pasteboard.co/hSPKw9Rg3DFr.png])
+![Welcome to Global Campus banner]([https://pasteboard.co/splP3mErZnLp.webp])
 
 # Welcome to the BUE Structural Analysis and AI repository! 
 
