@@ -1,4 +1,4 @@
-![Welcome to the BUE Structural Analysis and AI repository] (https://github.com//Ahmed-A-Torky/BUE-AI-Structural-Engineering-Beginner/blob/main/tr1.png?raw=true)
+![Welcome to the BUE Structural Analysis and AI repository] (https://github.com//Ahmed-A-Torky/BUE-AI-Structural-Engineering-Beginner/blob/main/tr1.jpg?raw=true)
 
 # Welcome to the BUE Structural Analysis and AI repository! 
 
