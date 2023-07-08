@@ -1,8 +1,8 @@
-![Welcome to the BUE Structural Analysis and AI repository](https://github.com//Ahmed-A-Torky/BUE-AI-Structural-Engineering-Beginner/blob/main/tr1.jpg?raw=true)
+![Welcome to the AI applications in Structural Engineering repository](https://github.com//Ahmed-A-Torky/BUE-AI-Structural-Engineering-Beginner/blob/main/tr1.jpg?raw=true)
 
-# Welcome to the BUE Structural Analysis and AI repository! 
+# Welcome to the  AI applications in Structural Engineering repository! 
 
-The training program will start soon!
+The training program will start 9th July 2023!
 
 ## Notifications
-Click the Watch button at the top of the page and select your [notification preferences](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository). 
+No notifications yet.
