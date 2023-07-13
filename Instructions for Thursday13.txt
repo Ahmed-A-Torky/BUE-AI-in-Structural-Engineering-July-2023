@@ -1,0 +1,15 @@
+- How to fork and fetch
+- Notepad++
+- Spyder
+- How to create new Env
+- Install OpenSEESpy
+- VS CODE
+- Continue Exercises
+- Submit on Sunday 16th 
+
+Go to Anaconda Prompt
+	conda create -n OPENSEES python=3.9 anaconda
+	conda activate OPENSEES
+	pip install openseespy
+	pip install tensorflow==2.10
+	spyder
