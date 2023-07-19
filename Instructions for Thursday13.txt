@@ -16,6 +16,7 @@ Go to Anaconda Prompt in Start and type/run the following:
 	conda activate OPENSEES
 	pip install openseespy
 	pip install tensorflow==2.10
+	pip install comtypes
 	spyder
 Now you can code in Spyder using the new Environment.
 To be able to use this environment in the future:
