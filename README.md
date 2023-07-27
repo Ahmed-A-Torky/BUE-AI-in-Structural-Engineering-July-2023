@@ -38,4 +38,4 @@ Join us on this transformative journey to unlock the potential of AI, Python pro
 Note: This repository will be updated daily during the training days.
 
 ## Notifications
-No notifications yet.
+Check https://docs.python.org/3.3/using/cmdline.html
